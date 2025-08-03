@@ -1,3 +1,3 @@
 # Desafio da DIO recriando landing page do Discord responsivo.
 ## 
-### Criado usando conceiro do display flex e mobile first.
+### Criado usando conceito do display flex e mobile first.
